@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Student\Documents\WP - Pierchała Emilia\Singleton\Singleton\obj\Debug\Singleton.pdb
